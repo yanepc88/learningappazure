@@ -1,0 +1,60 @@
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/appsettings.Development.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/appsettings.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/learningapp.staticwebassets.runtime.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/learningapp
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/learningapp.deps.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/learningapp.runtimeconfig.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/learningapp.dll
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/bin/Debug/net8.0/learningapp.pdb
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.AssemblyInfoInputs.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.AssemblyInfo.cs
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.csproj.CoreCompileInputs.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.MvcApplicationPartsAssemblyInfo.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.RazorAssemblyInfo.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.RazorAssemblyInfo.cs
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.build.learningapp.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.learningapp.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.learningapp.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/scopedcss/bundle/learningapp.styles.css
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/scopedcss/projectbundle/learningapp.bundle.scp.css
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.dll
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/refint/learningapp.dll
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.pdb
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/learningapp.genruntimeconfig.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/learningapp/obj/Debug/net8.0/ref/learningapp.dll
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/appsettings.Development.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/appsettings.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/learningapp.staticwebassets.runtime.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/learningapp
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/learningapp.deps.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/learningapp.runtimeconfig.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/learningapp.dll
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/bin/Debug/net8.0/learningapp.pdb
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.AssemblyInfoInputs.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.AssemblyInfo.cs
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.csproj.CoreCompileInputs.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.MvcApplicationPartsAssemblyInfo.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.RazorAssemblyInfo.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.RazorAssemblyInfo.cs
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/staticwebassets.build.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/staticwebassets.development.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.build.learningapp.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.learningapp.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.learningapp.props
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/scopedcss/bundle/learningapp.styles.css
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/scopedcss/projectbundle/learningapp.bundle.scp.css
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.dll
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/refint/learningapp.dll
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.pdb
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/learningapp.genruntimeconfig.cache
+/Users/yanetpedraza/Documents/Azure Certification/Projects/Learning App Git/learningapp/obj/Debug/net8.0/ref/learningapp.dll
